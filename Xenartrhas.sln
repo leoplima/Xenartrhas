@@ -15,6 +15,7 @@ Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Xenartrhas\Xenartrhas\Xenartrhas.projitems*{44b9c941-56d2-4c77-8942-21ad6f89a4d3}*SharedItemsImports = 4
 		Xenartrhas\Xenartrhas\Xenartrhas.projitems*{5634398d-f1cc-45ce-a60c-e00852938e7b}*SharedItemsImports = 4
+		Xenartrhas\Xenartrhas\Xenartrhas.projitems*{5ebc1a7e-dcc2-41b9-9658-7d846aadd109}*SharedItemsImports = 4
 		Xenartrhas\Xenartrhas\Xenartrhas.projitems*{f692f930-6fe9-44aa-ad04-e5ba789b319a}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
